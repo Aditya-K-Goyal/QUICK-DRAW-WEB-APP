@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(167, 255, 25, 0.84);
+    color: rgb(255, 0, 0);
+    font-family: 'Tapestry', cursive;
+}
+#score{
+    font-size: 30px;
+    margin-right: 150px;
+}
+#timer{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+#sketch_to_be_drawn{
+    font-size: 30px;
+    margin-left: 10px;
+    color: red;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+}
+#sketchesb{
+    font-size: 25px;
+}
+#your_sketch{
+    font-size: 30px;
+    color: black;
+    margin-left: 10px;
+}
+#confidence{
+    font-size: 30px;
+    margin-left: 10px;
+    color: black;
+}
+
